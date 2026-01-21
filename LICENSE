@@ -1,0 +1,58 @@
+Open Publication Model Specification License
+
+Version 1.0
+
+Copyright © 2026
+Open Publication Model contributors
+
+1. Grant of Rights
+
+Permission is hereby granted, free of charge, to any person or organization obtaining a copy of this specification corpus (the “Specifications”) to:
+
+read, copy, and redistribute the Specifications, in whole or in part;
+
+incorporate the Specifications into standards work, documentation, or educational materials;
+
+create derivative works based on the Specifications;
+
+implement the Specifications in software, hardware, or services;
+
+reference the Specifications in products, platforms, procurement processes, or policies.
+
+These rights are granted worldwide, royalty-free, and for the duration of applicable copyright.
+
+2. Attribution Requirement
+
+Any redistribution of the Specifications, or derivative works based on them, must include clear attribution to the Open Publication Model (OPM) and reference this repository as the source.
+
+Attribution must not imply endorsement by the Open Publication Model or its contributors.
+
+3. No Restriction on Implementation
+
+This license does not restrict implementation.
+
+Implementations of the Specifications may be proprietary or open source, commercial or non-commercial.
+
+No licensing fee, patent grant, or certification requirement is imposed by this license.
+
+4. No Warranty
+
+THE SPECIFICATIONS ARE PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+The authors and contributors shall not be liable for any claim, damages, or other liability arising from use of the Specifications.
+
+5. No Trademark Grant
+
+This license does not grant permission to use the names “Open Publication Model”, “OPM”, or associated logos as trademarks, except for factual reference or attribution.
+
+6. Scope
+
+This license applies only to the textual and diagrammatic content of the Specifications in this repository.
+
+It does not apply to any software implementations, test suites, tools, or other artifacts, which may be licensed separately.
+
+7. Intent
+
+The intent of this license is to encourage broad adoption, scrutiny, implementation, and evolution of the Open Publication Model, while preserving clear attribution and avoiding barriers to use.
+
+END OF LICENSE
