@@ -1,0 +1,69 @@
+Open Publication Model Patent Policy
+Version 1.0
+
+This Patent Policy applies to the Open Publication Model (OPM) specification corpus
+published in this repository.
+
+---
+
+1. Purpose
+
+The purpose of this Patent Policy is to encourage broad adoption, implementation,
+and use of the Open Publication Model by reducing uncertainty around patent rights.
+
+This policy is intended to be simple, permissive, and compatible with open
+standards development.
+
+---
+
+2. Patent Commitment
+
+Each contributor to this repository hereby agrees that, to the extent they own or
+control any patent claims that are necessarily infringed by implementing the OPM
+Specifications as written (a “Necessary Claim”), they grant a perpetual,
+worldwide, royalty-free, non-exclusive, irrevocable license to make, use, sell,
+offer for sale, import, and otherwise implement the Specifications.
+
+This commitment applies only to implementations that conform to the Specifications.
+
+---
+
+3. Scope and Limitations
+
+This Patent Policy:
+
+- applies only to patent claims that are necessarily infringed by implementing the
+  Specifications as written;
+- does not apply to optional features or extensions not required by the Specifications;
+- does not apply to implementations that are not conformant with the Specifications;
+- does not grant rights to trademarks, logos, or branding.
+
+No patent license is granted for any code, tools, or implementations unless
+separately stated.
+
+---
+
+4. Defensive Termination
+
+If any party initiates a patent claim asserting that the OPM Specifications or a
+conformant implementation infringes a patent, any patent license granted to that
+party under this policy shall terminate as of the date such claim is filed.
+
+---
+
+5. No Warranty
+
+This Patent Policy is provided without warranty of any kind. No guarantee is made
+that the Specifications are free from third-party patent claims.
+
+---
+
+6. Relationship to License
+
+This Patent Policy is separate from and complementary to the Open Publication Model
+Specification License. In the event of a conflict, this Patent Policy governs patent
+rights only.
+
+---
+
+END OF PATENT POLICY
